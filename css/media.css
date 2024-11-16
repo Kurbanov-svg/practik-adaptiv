@@ -1,0 +1,28 @@
+@media (max-width: 970px) {
+  .burger-menu {
+    display: block;
+  }
+
+  nav {
+    display: none;
+  }
+
+  nav a {
+    display: block;
+    gap: 20px;
+  }
+}
+
+@media (max-width: 655px) {
+  .img {
+    max-width: 600px;
+    width: 100%;
+  }
+}
+
+@media (max-width: 655px) {
+  .image {
+    max-width: 600px;
+    width: 100%;
+  }
+}
